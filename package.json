@@ -48,5 +48,5 @@
   "devDependencies": {
     "@types/react-router-dom": "^5.1.6"
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "https://task-manager-abenezer.herokuapp.com/"
 }
